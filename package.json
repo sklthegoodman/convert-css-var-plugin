@@ -1,0 +1,31 @@
+{
+  "name": "convert-css-var-plugin",
+  "version": "0.0.1",
+  "description": "将css的变量转为为具体值，以支持不支持变量的机型",
+  "main": "index.js",
+  "dependencies": {
+    "webpack-cli": "^3.3.10"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.5"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sklthegoodman/convert-css-var-plugin.git"
+  },
+  "keywords": [
+    "css",
+    "convent",
+    "var",
+    "variable"
+  ],
+  "author": "wrynnsun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sklthegoodman/convert-css-var-plugin/issues"
+  },
+  "homepage": "https://github.com/sklthegoodman/convert-css-var-plugin#readme"
+}
